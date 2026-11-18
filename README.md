@@ -69,7 +69,7 @@
 
 ## Education
 
-🎓 **Bachelor of Science, Computer Science** · [University of Asia Pacific](https://uap-bd.edu) · <sub>Jul 2021 – Jun 2025</sub>
+🎓 **BSc in Computer Science & Engineering** · [University of Asia Pacific](https://uap-bd.edu) · <sub>Jul 2021 – Jun 2025</sub>
 
 ![CGPA](https://img.shields.io/badge/CGPA-3.92-2c5364?style=for-the-badge&labelColor=0f2027)
 
