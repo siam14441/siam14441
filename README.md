@@ -67,6 +67,12 @@
 - Functional, regression and sanity test cases from requirements; defects tracked in JIRA.
 - Playwright E2E tests for production projects used by European customers, including Salling Group (Denmark).
 
+## Education
+
+🎓 **Bachelor of Science, Computer Science** · [University of Asia Pacific](https://uap-bd.edu) · <sub>Jul 2021 – Jun 2025</sub>
+
+![CGPA](https://img.shields.io/badge/CGPA-3.92-2c5364?style=for-the-badge&labelColor=0f2027)
+
 ## Featured projects
 
 <table>
