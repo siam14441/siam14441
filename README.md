@@ -22,7 +22,12 @@
 <br/>
 
 <div align="center">
-  <img src="assets/products-qa.svg" width="100%" alt="Multi-product QA: responsible QA for Essential Blocks, Templately, BetterLinks, NotificationX and SchedulePress at once. Each runs its own pipeline of test plan, regression and ship call." />
+  <img src="assets/products/header.svg" width="100%" alt="Multi-product QA: responsible QA for five products at once, not just one." />
+  <a href="https://essential-blocks.com"><img src="assets/products/essential-blocks.svg" width="100%" alt="Essential Blocks: test plan, regression, ship call. Opens essential-blocks.com" /></a>
+  <a href="https://templately.com"><img src="assets/products/templately.svg" width="100%" alt="Templately: test plan, regression, ship call. Opens templately.com" /></a>
+  <a href="https://betterlinks.io"><img src="assets/products/betterlinks.svg" width="100%" alt="BetterLinks: test plan, regression, ship call. Opens betterlinks.io" /></a>
+  <a href="https://notificationx.com"><img src="assets/products/notificationx.svg" width="100%" alt="NotificationX: test plan, regression, ship call. Opens notificationx.com" /></a>
+  <a href="https://schedulepress.com"><img src="assets/products/schedulepress.svg" width="100%" alt="SchedulePress: test plan, regression, ship call. Opens schedulepress.com" /></a>
 </div>
 
 ## What I do
@@ -49,7 +54,7 @@
 
 **Jr. Software Test Engineer** · Startise · Dhaka, Bangladesh
 
-- Responsible QA for five WordPress products at the same time: Essential Blocks, Templately, BetterLinks, NotificationX and SchedulePress, switching between their releases and test plans.
+- Responsible QA for five WordPress products at the same time: [Essential Blocks](https://essential-blocks.com), [Templately](https://templately.com), [BetterLinks](https://betterlinks.io), [NotificationX](https://notificationx.com) and [SchedulePress](https://schedulepress.com), switching between their releases and test plans.
 - Test plugin releases end to end: upgrades from the previous version, free and pro together, responsive layouts, accessibility and performance.
 - Write bug reports developers can act on: cold-start steps, expected vs actual, exact values, console errors and annotated screenshots.
 - Verify developer fixes in the browser and re-check the surrounding area for regressions.

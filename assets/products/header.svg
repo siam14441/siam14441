@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="116" viewBox="0 0 860 116" role="img" aria-labelledby="t d">
+  <title id="t">Multi-product QA</title>
+  <desc id="d">Responsible QA for five products at once, not just one. Each has its own release cycle, test plan and free and pro builds.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f2027"/>
+      <stop offset="0.55" stop-color="#203a43"/>
+      <stop offset="1" stop-color="#2c5364"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5FD4C4"/>
+      <stop offset="1" stop-color="#2c8fa0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .eyebrow { fill: #5FD4C4; font-size: 12px; font-weight: 700; letter-spacing: 3px; }
+    .title { fill: #ffffff; font-size: 28px; font-weight: 800; }
+    .sub { fill: #cfe3ea; font-size: 14px; }
+    .cap { fill: #7f9aa5; font-size: 12px; }
+    .name { fill: #5FD4C4; font-size: 16px; font-weight: 700; }
+    .dom { fill: #9fb8c2; font-size: 12px; }
+    .arrow { fill: #5FD4C4; font-size: 14px; font-weight: 700; }
+    .pill { fill: #5FD4C4; fill-opacity: 0.08; stroke: #5FD4C4; stroke-opacity: 0.5; animation: sweep 7s ease-in-out infinite; }
+    .pt { fill: #ffffff; font-size: 12px; font-weight: 600; }
+    @keyframes sweep { 0% { fill-opacity: 0.08; stroke-opacity: 0.5; } 7% { fill-opacity: 0.5; stroke-opacity: 1; } 18% { fill-opacity: 0.08; stroke-opacity: 0.5; } 100% { fill-opacity: 0.08; stroke-opacity: 0.5; } }
+    @keyframes rise { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: translateY(0); } }
+    .a { animation: rise 0.5s ease-out both; }
+  </style>
+  <rect width="860" height="116" rx="14" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="859" height="115" rx="14" fill="none" stroke="#5FD4C4" stroke-opacity="0.35"/>
+  <g class="a" style="animation-delay:0.1s">
+    <text x="36" y="40" class="sans eyebrow">SCOPE</text>
+    <text x="36" y="78" class="sans title">Multi-product QA</text>
+    <rect x="36" y="92" width="56" height="4" rx="2" fill="url(#accent)"/>
+    <text x="420" y="50" class="sans sub">Responsible QA for five products at once,</text>
+    <text x="420" y="70" class="sans sub">not just one. Click a product to visit it.</text>
+    <text x="420" y="96" class="mono cap">own release cycle · own test plan · free + pro builds</text>
+  </g>
+</svg>
