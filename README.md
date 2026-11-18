@@ -23,11 +23,11 @@
 
 <div align="center">
   <img src="assets/products/header.svg" width="100%" alt="Multi-product QA: responsible QA for five products at once, not just one." />
-  <a href="https://essential-blocks.com"><img src="assets/products/essential-blocks.svg" width="100%" alt="Essential Blocks: test plan, regression, ship call. Opens essential-blocks.com" /></a>
-  <a href="https://templately.com"><img src="assets/products/templately.svg" width="100%" alt="Templately: test plan, regression, ship call. Opens templately.com" /></a>
-  <a href="https://betterlinks.io"><img src="assets/products/betterlinks.svg" width="100%" alt="BetterLinks: test plan, regression, ship call. Opens betterlinks.io" /></a>
-  <a href="https://notificationx.com"><img src="assets/products/notificationx.svg" width="100%" alt="NotificationX: test plan, regression, ship call. Opens notificationx.com" /></a>
-  <a href="https://schedulepress.com"><img src="assets/products/schedulepress.svg" width="100%" alt="SchedulePress: test plan, regression, ship call. Opens schedulepress.com" /></a>
+  <a href="https://essential-blocks.com" target="_blank" rel="noopener noreferrer"><img src="assets/products/essential-blocks.svg" width="100%" alt="Essential Blocks: test plan, regression, ship call. Opens essential-blocks.com" /></a>
+  <a href="https://templately.com" target="_blank" rel="noopener noreferrer"><img src="assets/products/templately.svg" width="100%" alt="Templately: test plan, regression, ship call. Opens templately.com" /></a>
+  <a href="https://betterlinks.io" target="_blank" rel="noopener noreferrer"><img src="assets/products/betterlinks.svg" width="100%" alt="BetterLinks: test plan, regression, ship call. Opens betterlinks.io" /></a>
+  <a href="https://notificationx.com" target="_blank" rel="noopener noreferrer"><img src="assets/products/notificationx.svg" width="100%" alt="NotificationX: test plan, regression, ship call. Opens notificationx.com" /></a>
+  <a href="https://schedulepress.com" target="_blank" rel="noopener noreferrer"><img src="assets/products/schedulepress.svg" width="100%" alt="SchedulePress: test plan, regression, ship call. Opens schedulepress.com" /></a>
 </div>
 
 ## What I do
