@@ -19,7 +19,9 @@
   <img src="assets/who-am-i.svg" width="100%" alt="whoami: siam14441, a QA engineer who finds the bug and makes it easy to fix. Focus: release testing, manual and exploratory testing, test automation, AI-assisted QA." />
 </div>
 
-> **Responsible QA for several products at once, not just one.** Each has its own release cycle, test plan and, often, separate free and pro builds.
+<div align="center">
+  <img src="assets/multi-product-qa.svg" width="100%" alt="Multi-product QA: responsible QA for several products at once, not just one. Each has its own release cycle, test plan and free and pro builds." />
+</div>
 
 ## What I do
 
