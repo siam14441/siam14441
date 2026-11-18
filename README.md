@@ -16,7 +16,7 @@
 ## Who Am I
 
 <div align="center">
-  <img src="assets/whoami.svg?v=2" width="100%" alt="whoami: siam14441, a QA engineer who finds the bug and makes it easy to fix. Focus: release testing, manual and exploratory testing, test automation, AI-assisted QA." />
+  <img src="assets/who-am-i.svg" width="100%" alt="whoami: siam14441, a QA engineer who finds the bug and makes it easy to fix. Focus: release testing, manual and exploratory testing, test automation, AI-assisted QA." />
 </div>
 
 ## What I do
