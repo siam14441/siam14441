@@ -78,21 +78,18 @@ AI-assisted QA       ->  Claude Code skills that make a QA process repeatable
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=playwright,ts,js,py,bash,wordpress,php,githubactions,git,github,vscode&perline=11" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=ts,js,py,bash,wordpress,php,githubactions,git,github,vscode&perline=10" alt="Tech stack" />
+
+<br/>
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 </div>
 
-**Testing:** Playwright · ARIA snapshots · GitHub Actions CI · cross-browser and responsive checks · accessibility audits
-**Method:** regression strategy · upgrade-path testing · exploratory and security-minded testing · root-cause tracing
-**Also:** Claude Code skills · Markdown reports · Git
-
-## Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=siam14441&bg_color=0f2027&color=5FD4C4&line=5FD4C4&point=ffffff&area=true&area_color=2c5364&hide_border=true" alt="Contribution graph" width="100%" />
-
-</div>
+- **Testing:** Playwright · ARIA snapshots · GitHub Actions CI · cross-browser and responsive checks · accessibility audits
+- **Method:** regression strategy · upgrade-path testing · exploratory and security-minded testing · root-cause tracing
+- **Also:** Claude Code skills · Markdown reports · Git
 
 ## Let's connect
 
