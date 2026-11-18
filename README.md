@@ -13,28 +13,31 @@
 
 ---
 
-## `whoami`
+## Who Am I
 
 <div align="center">
-  <img src="assets/whoami.svg" width="100%" alt="whoami: siam14441, a QA engineer who reads the code before reporting the bug. Focus: WordPress plugin QA, test automation, security-minded QA, AI-assisted QA." />
+  <img src="assets/whoami.svg" width="100%" alt="whoami: siam14441, a QA engineer who finds the bug and makes it easy to fix. Focus: release testing, manual and exploratory testing, test automation, AI-assisted QA." />
 </div>
 
 ## What I do
 
-| | |
+| Focus | What it looks like |
 | --- | --- |
-| 🧪 **Release regression** | Full pre-release passes across 20 axes: content integrity, upgrade paths from the previous release, free/pro interplay, FSE, responsive, accessibility, performance, i18n. Ends in a ship / no-ship verdict backed by evidence. |
-| 🎭 **E2E automation** | Playwright + TypeScript regression suites that run in GitHub Actions and block a release when a core flow breaks. |
-| 🔐 **Security-aware testing** | Real non-admin role matrices, input sanitization and output escaping checks, REST and AJAX permission checks, XSS spot-checks. |
-| 🤖 **AI-assisted QA** | I turn my QA method into reusable [Claude Code](https://claude.com/claude-code) skills, so a thorough pass is a workflow and not a mood. |
-| 📸 **Evidence-first reports** | Cold-start repro steps, exact values, a traced root cause, and an annotated screenshot for every finding. |
+| 🧪 **Release testing** | Pre-release passes on plugin builds: upgrade from the previous version, free and pro together, responsive layouts, accessibility, performance. Ends in a clear ship / no-ship call. |
+| 🔎 **Manual and exploratory testing** | Hands-on testing in real browsers: every setting, edge cases, wrong input, refresh mid-save, small screens. |
+| 🎭 **Test automation** | Playwright + TypeScript regression suites that run in GitHub Actions and block a release when a core flow breaks. |
+| 👥 **Permissions and input** | The same feature tried as admin, editor and subscriber, plus invalid and hostile input in every field. |
+| 🤖 **AI-assisted QA** | I turn my QA process into reusable [Claude Code](https://claude.com/claude-code) skills, so a thorough pass is a workflow and not a mood. |
+| 📸 **Bug reports devs can act on** | Cold-start repro steps, expected vs actual, exact values, console errors and an annotated screenshot for every finding. |
 
 ## How I test
 
-- A bug is a bug only after I **reproduce it twice**, **run a control that could kill it**, and **ask what would make it intentional**.
-- I test the artifact that actually ships, not the branch I hoped would ship.
-- I read the code before I name a cause. No `file:line`, no root-cause claim.
-- Passing on the happy path is the start of the pass, not the end.
+- I test like a real user first, then the awkward paths: wrong input, back button, refresh mid-save, small screens.
+- A bug is real only after I **reproduce it twice** and **ask what would make it intentional**.
+- I check the **previous release** too, so a new regression is not confused with an old issue.
+- A report is not done until a developer can reproduce it cold: build, steps, expected vs actual, screenshot.
+- After a fix, I verify it in the browser and re-check the area around it.
+- The happy path passing is where testing starts, not where it ends.
 
 ## Featured projects
 
@@ -81,7 +84,7 @@
 </div>
 
 - **Testing:** Playwright · ARIA snapshots · GitHub Actions CI · cross-browser and responsive checks · accessibility audits
-- **Method:** regression strategy · upgrade-path testing · exploratory and security-minded testing · root-cause tracing
+- **Method:** regression testing · upgrade-path testing · exploratory testing · bug reporting
 - **Also:** Claude Code skills · Markdown reports · Git
 
 ## Let's connect
