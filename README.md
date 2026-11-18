@@ -61,6 +61,12 @@
 - Build Playwright + TypeScript regression suites that run in GitHub Actions.
 - Build Claude Code QA skills that turn a thorough test pass into a repeatable workflow.
 
+**Software QA Engineer Intern** · Fiftytwo Digital Ltd. · Dhaka, Bangladesh · <sub>Sep 2025 – Mar 2026</sub>
+
+- Manual testing of enterprise POS web and mobile apps: payments, refunds and store configuration.
+- Functional, regression and sanity test cases from requirements; defects tracked in JIRA.
+- Playwright E2E tests for production projects used by European customers, including Salling Group (Denmark).
+
 ## Featured projects
 
 <table>
