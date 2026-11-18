@@ -39,6 +39,16 @@
 - After a fix, I verify it in the browser and re-check the area around it.
 - The happy path passing is where testing starts, not where it ends.
 
+## Experience
+
+**Jr. Software Test Engineer** · Startise · Dhaka, Bangladesh
+
+- Test WordPress plugin releases end to end: upgrades from the previous version, free and pro together, responsive layouts, accessibility and performance.
+- Write bug reports developers can act on: cold-start steps, expected vs actual, exact values, console errors and annotated screenshots.
+- Verify developer fixes in the browser and re-check the surrounding area for regressions.
+- Build Playwright + TypeScript regression suites that run in GitHub Actions.
+- Build Claude Code QA skills that turn a thorough test pass into a repeatable workflow.
+
 ## Featured projects
 
 <table>
@@ -92,6 +102,8 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-siam14441-0f2027?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siam14441)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-siamzafar14441-2c5364?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siamzafar14441/)
+![Profile views](https://komarev.com/ghpvc/?username=siam14441&label=Profile%20views&color=203a43&style=for-the-badge)
 
 <sub>Found a bug in my README? Open an issue. I'll reproduce it twice first. 😉</sub>
 
