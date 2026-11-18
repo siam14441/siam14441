@@ -15,16 +15,9 @@
 
 ## `whoami`
 
-```text
-$ whoami
-siam14441 — QA engineer who reads the code before reporting the bug
-
-$ cat focus.txt
-WordPress plugin QA  ->  free + pro builds, upgrade paths, shipped-ZIP identity
-Test automation      ->  Playwright / TypeScript suites that run in CI
-Security-minded QA   ->  capability matrices, sanitization / escaping, XSS spot-checks
-AI-assisted QA       ->  Claude Code skills that make a QA process repeatable
-```
+<div align="center">
+  <img src="assets/whoami.svg" width="100%" alt="whoami: siam14441, a QA engineer who reads the code before reporting the bug. Focus: WordPress plugin QA, test automation, security-minded QA, AI-assisted QA." />
+</div>
 
 ## What I do
 

@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="300" viewBox="0 0 860 300" role="img" aria-labelledby="t d">
+  <title id="t">whoami</title>
+  <desc id="d">siam14441, a QA engineer who reads the code before reporting the bug. Focus: WordPress plugin QA, test automation, security-minded QA, AI-assisted QA.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f2027"/>
+      <stop offset="0.55" stop-color="#203a43"/>
+      <stop offset="1" stop-color="#2c5364"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0b161b"/>
+      <stop offset="1" stop-color="#14272f"/>
+    </linearGradient>
+    <clipPath id="clip"><rect width="860" height="300" rx="16"/></clipPath>
+  </defs>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 15px; }
+    .prompt { fill: #5FD4C4; font-weight: 700; }
+    .cmd { fill: #ffffff; font-weight: 600; }
+    .out { fill: #cfe3ea; }
+    .name { fill: #5FD4C4; font-weight: 700; }
+    .key { fill: #5FD4C4; font-weight: 700; }
+    .val { fill: #dbe9ee; }
+    .dim { fill: #7f9aa5; }
+    .title { fill: #7f9aa5; font-size: 13px; }
+    @keyframes rise { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes blink { 50% { opacity: 0; } }
+    .l { animation: rise 0.5s ease-out both; }
+    .l1 { animation-delay: 0.1s; } .l2 { animation-delay: 0.5s; } .l3 { animation-delay: 1.0s; }
+    .l4 { animation-delay: 1.4s; } .l5 { animation-delay: 1.6s; } .l6 { animation-delay: 1.8s; }
+    .l7 { animation-delay: 2.0s; } .l8 { animation-delay: 2.4s; }
+    .cur { fill: #5FD4C4; animation: blink 1s step-end infinite; }
+  </style>
+
+  <g clip-path="url(#clip)">
+    <rect width="860" height="300" fill="url(#bg)"/>
+    <rect width="860" height="40" fill="url(#bar)"/>
+    <rect y="40" width="860" height="1" fill="#5FD4C4" opacity="0.35"/>
+  </g>
+  <rect x="0.5" y="0.5" width="859" height="299" rx="16" fill="none" stroke="#5FD4C4" stroke-opacity="0.35"/>
+
+  <circle cx="26" cy="20" r="6" fill="#ff5f56"/>
+  <circle cx="48" cy="20" r="6" fill="#ffbd2e"/>
+  <circle cx="70" cy="20" r="6" fill="#27c93f"/>
+  <text x="430" y="25" text-anchor="middle" class="title">siam14441 — qa@startise — zsh</text>
+
+  <g class="l l1"><text x="32" y="78"><tspan class="prompt">$ </tspan><tspan class="cmd">whoami</tspan></text></g>
+  <g class="l l2"><text x="32" y="104"><tspan class="name">siam14441</tspan><tspan class="out">  —  QA engineer who reads the code before reporting the bug</tspan></text></g>
+
+  <g class="l l3"><text x="32" y="148"><tspan class="prompt">$ </tspan><tspan class="cmd">cat focus.txt</tspan></text></g>
+
+  <g class="l l4"><text x="32" y="180"><tspan class="key">WordPress plugin QA</tspan><tspan class="dim" x="248">▸</tspan><tspan class="val" x="270">free + pro builds · upgrade paths · shipped-ZIP identity</tspan></text></g>
+  <g class="l l5"><text x="32" y="204"><tspan class="key">Test automation</tspan><tspan class="dim" x="248">▸</tspan><tspan class="val" x="270">Playwright / TypeScript suites that run in CI</tspan></text></g>
+  <g class="l l6"><text x="32" y="228"><tspan class="key">Security-minded QA</tspan><tspan class="dim" x="248">▸</tspan><tspan class="val" x="270">capability matrices · sanitization / escaping · XSS spot-checks</tspan></text></g>
+  <g class="l l7"><text x="32" y="252"><tspan class="key">AI-assisted QA</tspan><tspan class="dim" x="248">▸</tspan><tspan class="val" x="270">Claude Code skills that make a QA process repeatable</tspan></text></g>
+
+  <g class="l l8"><text x="32" y="284"><tspan class="prompt">$ </tspan></text><rect class="cur" x="52" y="271" width="9" height="16"/></g>
+</svg>
