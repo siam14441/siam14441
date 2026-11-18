@@ -19,6 +19,8 @@
   <img src="assets/who-am-i.svg" width="100%" alt="whoami: siam14441, a QA engineer who finds the bug and makes it easy to fix. Focus: release testing, manual and exploratory testing, test automation, AI-assisted QA." />
 </div>
 
+> **Responsible QA for several products at once, not just one.** Each has its own release cycle, test plan and, often, separate free and pro builds.
+
 ## What I do
 
 | Focus | What it looks like |
@@ -43,7 +45,8 @@
 
 **Jr. Software Test Engineer** · Startise · Dhaka, Bangladesh
 
-- Test WordPress plugin releases end to end: upgrades from the previous version, free and pro together, responsive layouts, accessibility and performance.
+- Responsible QA for multiple WordPress plugin products at the same time, switching between their releases and test plans.
+- Test plugin releases end to end: upgrades from the previous version, free and pro together, responsive layouts, accessibility and performance.
 - Write bug reports developers can act on: cold-start steps, expected vs actual, exact values, console errors and annotated screenshots.
 - Verify developer fixes in the browser and re-check the surrounding area for regressions.
 - Build Playwright + TypeScript regression suites that run in GitHub Actions.
