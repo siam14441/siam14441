@@ -22,7 +22,7 @@
 <br/>
 
 <div align="center">
-  <img src="assets/multi-product-qa.svg" width="100%" alt="Multi-product QA: responsible QA for several products at once, not just one. Each has its own release cycle, test plan and free and pro builds." />
+  <img src="assets/products-qa.svg" width="100%" alt="Multi-product QA: responsible QA for Essential Blocks, Templately, BetterLinks, NotificationX and SchedulePress at once. Each runs its own pipeline of test plan, regression and ship call." />
 </div>
 
 ## What I do
@@ -49,7 +49,7 @@
 
 **Jr. Software Test Engineer** · Startise · Dhaka, Bangladesh
 
-- Responsible QA for multiple WordPress plugin products at the same time, switching between their releases and test plans.
+- Responsible QA for five WordPress products at the same time: Essential Blocks, Templately, BetterLinks, NotificationX and SchedulePress, switching between their releases and test plans.
 - Test plugin releases end to end: upgrades from the previous version, free and pro together, responsive layouts, accessibility and performance.
 - Write bug reports developers can act on: cold-start steps, expected vs actual, exact values, console errors and annotated screenshots.
 - Verify developer fixes in the browser and re-check the surrounding area for regressions.
